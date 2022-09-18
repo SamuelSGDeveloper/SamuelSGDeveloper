@@ -1,4 +1,4 @@
-<h2 align="center">FULLSTACK Junior Developer.</h2>
+<h2 style = "display:flex; justify-content:center;">FULLSTACK Junior Developer.</h2>
    
 <p align="center">
 <img src="https://i.pinimg.com/originals/51/61/ae/5161ae4246c84f469a9a2d191e4e1b1f.gif" />
