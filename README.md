@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">FULLSTACK Junior Developer.</h2>
+   
+<p align="center">
+<img src="https://i.pinimg.com/originals/51/61/ae/5161ae4246c84f469a9a2d191e4e1b1f.gif" />
+</p align="center">
 
-<!--
-**SamuelSGDeveloper/SamuelSGDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<h1 align="center"> 
+<img src="https://i.pinimg.com/564x/e2/ac/d6/e2acd66114a7f3a4ad69e9fd49020e5b.jpg" width="80" height="80" />
+About me </h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelSGDeveloper&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelSGDeveloper&theme=default)
